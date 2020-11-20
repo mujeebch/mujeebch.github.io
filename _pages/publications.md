@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Selected Publications: For more[Google Scholar](https://scholar.google.com/citations?user=l_qJD3IAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
