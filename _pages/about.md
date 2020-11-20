@@ -19,7 +19,6 @@ My research interests are in the security and privacy of Cyber Physical Systems 
 
 ### Header
 
-<div class="special-class" markdown="1">
+<div class="special-class" markdown="1" style="font-size: 50px">
 	I am looking for students.
-	dada
 </div>
