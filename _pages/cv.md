@@ -49,7 +49,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer Journals:
+* Reviewer (Journals):
   * Transactions on Dependable and Secure Computing (2019)
   * IEEE Transactions on Industrial informatics (2020) 
   * IEEE Transactions on Industrial Electronics (2020)
@@ -58,3 +58,29 @@ Service and leadership
   * The Journal of Franklin Institute (2018 - 2020)
   * Sub-Reviewer MDPI Journal Sensors
   * KSII Transactions on Internet and Information Systems
+
+* Reviewer (Conferences):
+  * IEEE Conference on Control Technology and Applications (CCTA) 2020
+  * IEEE Emerging Technologies for Security in IoT (ETSecIoT) 2020 
+  * ACM CPSS workshop 2020
+  * ICICS 2019 The 21st International Conference on Information and Communications Security
+  * Sub-Reviewer ACM AsiaCCS 2019 - 2020
+  * sub-reviewer ESORICS 2019
+  * sub-reviewer ACM CCS 2019
+  * IEEE Wireless Telecommunication Symposium (WTS) 2018 - 2020
+  * IEEE DSR 2019
+  * IEEE 13th Innovation in Information Technology Conference 2018
+  * IEEE ICCAIS 2019
+
+* MS Thesis Supervised:
+  * Darren Ng Wei Hong titled “Data Integrity Attack Detection in Smart Grid System” MSSD 2018
+  * Sharon Lee, titled “Threat Modeling Analysis on Industrial Control Systems: Case Study on a Secure Water Treatment System” MSSD 2019
+  * Kuizhen Su, “Time Series Clustering for SWaT Process”, MSSD 2019
+
+* Supervised Undergraduate Student Internships:
+  * Animesh Singh (IIT Delhi India)
+  * Surabhi Athalye (SUTD Singapore)
+  * Mark Chuah (SUTD Singapore)
+
+
+
