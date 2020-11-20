@@ -6,7 +6,7 @@ excerpt: 'In this manuscript, we present a detailed case study about model-based
 date: 2017-06-01
 venue: 'ACM AsiaCCS 2017'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3052973.3053011'
-citation: 'Chuadhry Mujeeb Ahmed, Carlos Murguia, and Justin Ruths. 2017. Model-based Attack Detection Scheme for Smart Water Distribution Networks. In <i>Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security</i> <i>ASIA CCS '17</i>. Association for Computing Machinery, New York, NY, USA, 101–113.'
+citation: 'Chuadhry Mujeeb Ahmed, Carlos Murguia, and Justin Ruths. 2017. Model-based Attack Detection Scheme for Smart Water Distribution Networks. In <i>Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security</i> <i>ASIA CCS17</i>. Association for Computing Machinery, New York, NY, USA'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
