@@ -8,7 +8,7 @@ date: 2016-09-01
 location: "Singapore"
 ---
 
-I was teaching assistant with Prof. Nils O. Tippenhauer in Fall Semester 2016 for the [Networking Course](https://istd.sutd.edu.sg/undergraduate/courses/50012-networks)
+I was teaching assistant with Prof. Nils O. Tippenhauer in Fall Semester 2016 for the [Networking Course](https://istd.sutd.edu.sg/undergraduate/courses/50012-networks). I was mainly responsible for the lab exercises.
 
 Key Topics
 ======
