@@ -17,8 +17,8 @@ Research Overview
 ======
 My research interests are in the security and privacy of Cyber Physical Systems (CPS), Internet of Things (IoT), Communication Systems and Critical Infrastructures. Previously, we have proposed non-cryptographic techniques to authenticate devices in an Industrial Control System (ICS). One such example is, exploiting [sensor measurement noise](https://www.growkudos.com/publications/10.1145%25252F3410447/reader), otherwise an undesirable feature into a fingerprint of a sensor. Our recent work has highlighted the challenges in applying [machine learning to CPS security](https://dl.acm.org/doi/abs/10.1145/3384941.3409588) and awarded the best paper prize at ACM CPSS workshop 2020. We are working towards solving those challenges, including Causal Inference, ML metrics for time series data and attack vs fault analysis in autonomous systems. Besides, we are working on exciting ideas related to side-channel based threat and defense technologies. For example, we have used [sounds produced by machines](https://ics2020.sched.com/event/eh1h/identifying-process-structure-and-parameters-using-side-channel-information) in an industrial plant to hack it. If this sounds interesting to you do get in touch, we are always looking for self-motivated individuals for Ph.D. and Postdoc positions. 
 
-### Header
+### <span style="color:red"> Openings </span>
 
-<div class="special-class" markdown="1" style="font-size: 50px">
+<div class="special-class" markdown="1" style="font-size: 30px" style="color:magenta">
 	I am looking for students.
 </div>
