@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design
+* M.S. in Electrical and Computer Engineering, Seoul National University
+* B.S. in Communication Systems Engineering, Institute of Space Technology
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Lecturer in Cyber Security
+  * University of Strathclyde
+  * Duties included: Teaching and Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Research Fellow in Cyber Security
+  * Singapore University of Technology and Design 
+  * Duties included: Research at National Satellite of Excellence DeST-SCI
+  * Supervisor: Professor Jianying Zhou
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +49,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer Journals:
+  * Transactions on Dependable and Secure Computing (2019)
+  * IEEE Transactions on Industrial informatics (2020) 
+  * IEEE Transactions on Industrial Electronics (2020)
+  * IEEE Transactions on Magnetics (2019)
+  * IEEE Access (2018)
+  * The Journal of Franklin Institute (2018 - 2020)
+  * Sub-Reviewer MDPI Journal Sensors
+  * KSII Transactions on Internet and Information Systems
