@@ -20,5 +20,8 @@ My research interests are in the security and privacy of Cyber Physical Systems 
 ### <span style="color:red"> Studentships: </span>
 
 <div class="special-class" markdown="1" style="font-size: 30px">
-	I am looking for students with an interest in security and privacy related to Cyber Physical Systems, Internet of Things, Machine Learning for Security. Send me an email with your CV at: mujeeb dot ahmed aT strath dot ac dot uk.
+	I am looking for students with an interest in security and privacy 
+	related to Cyber Physical Systems, Internet of Things, Machine Learning
+	 for Security. Send me an email with your CV at: 
+	 mujeeb dot ahmed aT strath dot ac dot uk.
 </div>
