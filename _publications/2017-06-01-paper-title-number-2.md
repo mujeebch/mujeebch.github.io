@@ -2,7 +2,7 @@
 title: "Model-based Attack Detection Scheme for Smart Water Distribution Networks"
 collection: publications
 permalink: /publication/2017-06-01-paper-title-number-2
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'In this manuscript, we present a detailed case study about model-based attack detection procedures for Cyber-Physical Systems (CPSs). In particular, using EPANET (a simulation tool for water distribution systems), we simulate a Water Distribution Network (WDN). Using this data and sub-space identification techniques, an input-output Linear Time Invariant (LTI) model for the network is obtained. This model is used to derive a Kalman filter to estimate the evolution of the system dynamics. Then, residual variables are constructed by subtracting data coming from EPANET and the estimates of the Kalman filter. We use these residuals and the Bad-Data and the dynamic Cumulative Sum (CUSUM) change detection procedures for attack detection. Simulation results are presented - considering false data injection and zero-alarm attacks on sensor readings, and attacks on control input - to evaluate the performance of our model-based attack detection schemes. Finally, we derive upper bounds on the estimator-state deviation that zero-alarm attacks can induce.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
