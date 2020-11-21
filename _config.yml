@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lecturer in Cyber security"
+  name             : "Lecturer in Cyber Security"
   avatar           : "Mujeeb.jpg" #"profile.png"
-  bio              : "I am Computer Science researcher with interests in cyber security and privacy. My research is particularly focused on Cyber Physical Systems (CPS) security."
+  bio              : "I am a computer science researcher with an interest in cyber security and privacy. My research is particularly focused on Cyber Physical Systems (CPS) security."
   #location         : "Location"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
