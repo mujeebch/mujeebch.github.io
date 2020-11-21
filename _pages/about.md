@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is under construction. Please keep in mind that the information might not be valid as long as you can see this note. Thanks!"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
