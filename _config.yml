@@ -17,7 +17,7 @@ repository               : "mujeebch/mujeebch.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false #true
 read_more                : "enabled" #"disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mujeeb"
+  name             : "Lecturer in Cyber security"
   avatar           : "Mujeeb.jpg" #"profile.png"
   bio              : "I am Computer Science researcher with interests in cyber security and privacy. My research is particularly focused on Cyber Physical Systems (CPS) security."
   #location         : "Location"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=l_qJD3IAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mujeeb dot ahmed @strath dot ac dot uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

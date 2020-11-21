@@ -9,7 +9,7 @@ location: "Singapore"
 ---
 
 I was awarded the best Teaching Assistant Award for this course.
-I was teaching assistant with Prof. David Yau and Jit Biswas in Spring Semester 2017 for the [Computer System Engineering Course](https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering). I was mainly responsible for the lab exercises and tutorial sessions. 
+I worked with Prof. David Yau and Jit Biswas in Spring Semester 2017 for the [Computer System Engineering Course](https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering). I was mainly responsible for the lab exercises and tutorial sessions. 
 
 Key Topics
 ======
