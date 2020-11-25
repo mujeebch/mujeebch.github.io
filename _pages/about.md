@@ -25,3 +25,11 @@ My research interests are in the security and privacy of Cyber Physical Systems 
 	 for Security. Send me an email with your CV at: 
 	 mujeeb dot ahmed aT strath dot ac dot uk.
 </div>
+
+### <span style="color:crimson"> News: </span>
+
+<div class="special-class" markdown="1" style="font-size: 30px">
+	- Best Paper Award at ACM CPSS 2020
+	- Best Research Project SoilBuild Award at FIRST 2020
+	- Selected to attend Heidelberg Laureate Forum (HLF 2019)
+</div>
