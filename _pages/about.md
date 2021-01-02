@@ -29,6 +29,7 @@ My research interests are in the security and privacy of Cyber Physical Systems 
 ### <span style="color:crimson"> News: </span>
 
 <div class="special-class" markdown="1" style="font-size: 30px">
+	- We are organizing [AIoTS Workshop with ACNS 2021, consider submitting your research](https://mujeebch.github.io/aiots2021/)
 	- Best Paper Award at ACM CPSS 2020
 	- Best Research Project SoilBuild Award at FIRST 2020
 	- Selected to attend Heidelberg Laureate Forum (HLF 2019)
