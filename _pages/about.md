@@ -10,8 +10,7 @@ redirect_from:
 
 I am a Senior Lecturer in the [Secure and Resilient Systems Group at School of Computing, Newcastle University](https://www.ncl.ac.uk/computing/research/srs/). Prior to this, I have served as a Lecturer in Cyber Security at [Computer and Information Sciences Department](https://www.strath.ac.uk/science/computerinformationsciences/) at the University of Strathclyde. I completed Ph.D. in Information Systems Technology and Design at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm),  Professor [Jianying Zhou](http://jianying.space/) and Professor [Martin Ochoa](https://scholar.google.com/citations?user=H5xFCoUAAAAJ&hl=en). During the Ph.D., I worked on the Cyber Physical Systems (CPS) security at the iTrust Labs and testbeds in SUTD. I got an opportunity to work with Professor [Raheem Beyah](https://www.ece.gatech.edu/faculty-staff-directory/raheem-a-beyah) at Georgia Tech during my Ph.D. exchange program. I received a Masters in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/) under the supervision of Professor [Saewoong Bahk](http://netlab.snu.ac.kr/). At SNU, South Korea my research was related to wireless communications. In particular, my MS thesis focused on [cross-tier interference mitigation in femtocell networks](http://s-space.snu.ac.kr/handle/10371/155484). 
 
-[comment]: <> (I graduated with a BS in Communication Systems Engineering from [Institute of Space Technology](https://ist.edu.pk/) working with Professor [Iftekhar Mahmood
-](https://www.linkedin.com/in/iftekharmahmood/).)
+[comment]: <> (I graduated with a BS in Communication Systems Engineering from [Institute of Space Technology](https://ist.edu.pk/) working with Professor [Iftekhar Mahmood](https://www.linkedin.com/in/iftekharmahmood/).)
 
    
 
