@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lecturer in Cyber Security"
-  avatar           : "Mujeeb.jpg" #"profile.png"
+  avatar           : "Mujeeb.jpeg" #"profile.png"
   bio              : "I am a computer science researcher with an interest in cyber security and privacy. My research is particularly focused on Cyber Physical Systems (CPS) security."
   #location         : "Location"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=l_qJD3IAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
-  email            : "mujeeb.ahmed@strath.ac.uk"
+  email            : "mujeeb.ahmed@newcastle.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

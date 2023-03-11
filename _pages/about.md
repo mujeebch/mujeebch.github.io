@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in the [Computer and Information Sciences Department](https://www.strath.ac.uk/science/computerinformationsciences/) at the University of Strathclyde. I completed Ph.D. in Information Systems Technology and Design at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm),  Professor [Jianying Zhou](http://jianying.space/) and Professor [Martin Ochoa](https://scholar.google.com/citations?user=H5xFCoUAAAAJ&hl=en). During the Ph.D., I worked on the Cyber Physical Systems (CPS) security at the iTrust Labs and testbeds in SUTD. I got an opportunity to work with Professor [Raheem Beyah](https://www.ece.gatech.edu/faculty-staff-directory/raheem-a-beyah) at Georgia Tech during my Ph.D. exchange program. I received a Masters in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/) under the supervision of Professor [Saewoong Bahk](http://netlab.snu.ac.kr/). At SNU, South Korea my research was related to wireless communications. In particular, my MS thesis focused on [cross-tier interference mitigation in femtocell networks](http://s-space.snu.ac.kr/handle/10371/155484). I graduated with a BS in Communication Systems Engineering from [Institute of Space Technology](https://ist.edu.pk/) working with Professor [Iftekhar Mahmood
-](https://www.linkedin.com/in/iftekharmahmood/).
+I am a Senior Lecturer in the [Secure and Resilient Systems Group at School of Computing, Newcastle University](https://www.ncl.ac.uk/computing/research/srs/). Prior to this, I have served as a Lecturer in Cyber Security at [Computer and Information Sciences Department](https://www.strath.ac.uk/science/computerinformationsciences/) at the University of Strathclyde. I completed Ph.D. in Information Systems Technology and Design at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm),  Professor [Jianying Zhou](http://jianying.space/) and Professor [Martin Ochoa](https://scholar.google.com/citations?user=H5xFCoUAAAAJ&hl=en). During the Ph.D., I worked on the Cyber Physical Systems (CPS) security at the iTrust Labs and testbeds in SUTD. I got an opportunity to work with Professor [Raheem Beyah](https://www.ece.gatech.edu/faculty-staff-directory/raheem-a-beyah) at Georgia Tech during my Ph.D. exchange program. I received a Masters in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/) under the supervision of Professor [Saewoong Bahk](http://netlab.snu.ac.kr/). At SNU, South Korea my research was related to wireless communications. In particular, my MS thesis focused on [cross-tier interference mitigation in femtocell networks](http://s-space.snu.ac.kr/handle/10371/155484). 
+
+[comment]: <> (I graduated with a BS in Communication Systems Engineering from [Institute of Space Technology](https://ist.edu.pk/) working with Professor [Iftekhar Mahmood
+](https://www.linkedin.com/in/iftekharmahmood/).)
 
    
 
@@ -23,12 +25,13 @@ My research interests are in the security and privacy of Cyber Physical Systems 
 	I am looking for students with an interest in security and privacy 
 	related to Cyber Physical Systems, Internet of Things, Machine Learning
 	 for Security. Send me an email with your CV at: 
-	 mujeeb dot ahmed aT strath dot ac dot uk.
+	 mujeeb dot ahmed aT newcastle dot ac dot uk.
 </div>
 
 ### <span style="color:crimson"> News: </span>
 
 <div class="special-class" markdown="1" style="font-size: 30px">
+	- We are organizing ACM CPSS 2023 with AsiaCCS23 [https://www.nics.uma.es/CPSS2023/].
 	- We are organizing AIoTS Workshop with ACNS 2021, consider submitting your research work [https://mujeebch.github.io/aiots2021/].
 	- Best Paper Award at ACM CPSS 2020
 	- Best Research Project SoilBuild Award at FIRST 2020

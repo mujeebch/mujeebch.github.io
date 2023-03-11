@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* Spring 2023: Senior Lecturer in Cyber Security
+  * Newcastle University
+
 * Fall 2020: Lecturer in Cyber Security
   * University of Strathclyde
   * Duties included: Teaching and Research
