@@ -1,7 +1,7 @@
 ---
 title: "Energy Level Spoofing Attacks and Countermeasures in Blockchain-enabled IoT"
 collection: publications
-permalink: /publication/2022-12-04-paper-title-number-6
+permalink: /publication/2021-12-04-paper-title-number-6
 excerpt: 'The Internet of Things (IoT) ecosystem is witnessing widespread deployments for emerging applications in diverse domains such as remote sensing, smart homes, and industry 4.0. There is also a growing need to secure such deployments against malicious IoT devices to sustain normal network operations. Since the IoT deployments encompass geographically distributed nodes, blockchain technology, which inherently offers distributed trust in such scenarios, is gaining popularity in providing a secure and trusted IoT deployment. In this paper, we present a use case in which an IoT deployment is retrofitted with a blockchain. The use of blockchain prevents malicious nodes from falsifying information about their energy levels. We first present attack scenarios where IoT nodes can spoof energy while joining or being a part of the network. We then build a defense strategy and evaluate its performance under various attack scenarios. Our results indicate that the IoT deployment is robust under the proposed defense strategy which can detect if a node is spoofing its energy levels over 75% of the time.'
 date: 2022-12-04
 venue: 'IEEE GlobeCom 2022'
