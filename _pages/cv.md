@@ -14,7 +14,6 @@ Education
 
 * Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design
 * M.S. in Electrical and Computer Engineering, Seoul National University
-* B.S. in Communication Systems Engineering, Institute of Space Technology
 
 
 Work experience
