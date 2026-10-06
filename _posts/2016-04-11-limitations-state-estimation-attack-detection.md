@@ -43,4 +43,80 @@ This type of method is effective against faults or attacks that create large and
 
 We experimentally examined three categories of attack:
 
-1. **Random attacks**, in which sensor measurements are altered 
+1. **Random attacks**, in which sensor measurements are altered without carefully considering the state estimator.
+2. **Stealthy bias attacks**, in which measurements are modified gradually or strategically to remain within the detector's threshold.
+3. **Replay attacks**, in which legitimate historical measurements are recorded and later retransmitted while the physical process is manipulated.
+
+Random attacks are comparatively straightforward to identify because they often create large residuals.
+
+Stealthy bias and replay attacks present a more difficult challenge. The manipulated measurements may remain statistically plausible even though they no longer accurately represent the current physical process.
+
+# How was the study evaluated?
+
+The experiments were conducted on the Secure Water Treatment testbed, commonly known as SWaT.
+
+Using a physical water treatment environment allowed us to observe the behaviour of the Kalman filter and Chi-Square detector under realistic sensors, controllers, communication, process dynamics, and attack conditions.
+
+This experimental evaluation was important because detection performance observed in simulation may not fully represent the behaviour of an operational cyber-physical system.
+
+# What did we find?
+
+The results showed that state-estimation-based detection could identify random attacks that produced clear deviations.
+
+However, stealthy false-data injection and replay attacks could remain undetected by the legacy failure-detection approach.
+
+This occurs because the detector was designed primarily to identify faults and statistically unusual measurements. An intelligent attacker can study the detector and construct malicious values that remain within its accepted range.
+
+# Why does this limitation matter?
+
+A detector may perform well against accidental failures without providing equivalent protection against malicious behaviour.
+
+A component failure does not normally attempt to hide. An attacker does.
+
+This distinction has important consequences for industrial cybersecurity. Evaluation should not be limited to random corruption or large measurement changes. It should include attackers who understand the physical system, estimation algorithm, detection threshold, and operator response.
+
+The findings motivate additional safeguards such as:
+
+- active or physical watermarking;
+- sensor and process noise fingerprinting;
+- timing-based device authentication;
+- diverse and redundant detection methods;
+- protected communication and message authentication; and
+- process-aware security monitoring.
+
+## Perspective
+
+This work helped establish an important direction in our research: methods developed for fault detection cannot automatically be assumed to provide cyberattack detection.
+
+State estimation remains valuable, but the associated detector must be evaluated against adversaries who adapt their behaviour to its design.
+
+The question is therefore not only whether a detector identifies abnormal values. We must also ask how much damage a knowledgeable attacker can cause while keeping the detector below its alarm threshold.
+
+The paper was co-authored with Sridhar Adepu and Aditya Mathur.
+
+## Research collaboration and consultancy
+
+Our research investigates the strengths and limitations of cyberattack detection methods for industrial control systems and critical infrastructure.
+
+We welcome enquiries relating to:
+
+- state-estimation-based attack detection;
+- Kalman filters and statistical detectors;
+- Chi-Square attack detection;
+- replay and false-data injection attacks;
+- stealthy manipulation of industrial sensors;
+- assessment of legacy failure-detection systems;
+- water treatment and critical-infrastructure security;
+- process-aware intrusion detection;
+- adversarial testing of industrial security controls; and
+- experimental evaluation using cyber-physical testbeds.
+
+We can support infrastructure operators, engineering teams, cybersecurity vendors, public-sector organisations, and researchers through independent evaluation, threat modelling, consultancy, collaborative research, and specialist training.
+
+For consultancy, research collaboration, advisory work, or invited talks, contact **Dr Mujeeb Ahmed**, Senior Lecturer in Computing at Newcastle University:
+
+**Email:** mujeeb.ahmed@newcastle.ac.uk
+
+## Reference
+
+https://doi.org/10.1109/SCSPW.2016.7509557. In *Proceedings of the 2016 Smart City Security and Privacy Workshop*. IEEE, 1–5. https://doi.org/10.1109/SCSPW.2016.7509557
