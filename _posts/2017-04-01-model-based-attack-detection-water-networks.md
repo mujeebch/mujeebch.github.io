@@ -96,4 +96,25 @@ The paper was co-authored with Carlos Murguia and Justin Ruths.
 
 Our research investigates model-based and process-aware approaches to securing water networks, industrial control systems, and critical infrastructure.
 
-We welcome
+We welcome enquiries relating to:
+
+- model-based cyberattack detection;
+- Kalman filter and residual-based monitoring;
+- CUSUM and sequential change detection;
+- false-data injection attacks;
+- zero-alarm and stealthy attacks;
+- smart water network security;
+- process modelling for cybersecurity;
+- security of sensors and control inputs;
+- evaluation of industrial detection systems; and
+- integration of control-theoretic and machine learning methods.
+
+We can support utilities, cybersecurity companies, engineering organisations, public-sector bodies, and research teams through consultancy, modelling, threat analysis, system evaluation, collaborative research, and specialist training.
+
+For consultancy, research collaboration, advisory work, or invited talks, contact **Dr Mujeeb Ahmed**, Senior Lecturer in Computing at Newcastle University:
+
+**Email:** mujeeb.ahmed@newcastle.ac.uk
+
+## Reference
+
+https://doi.org/10.1145/3052973.3053011. In *Proceedings of the 2017 ACM Asia Conference on Computer and Communications Security*. ACM, 101–113. https://doi.org/10.1145/3052973.3053011
