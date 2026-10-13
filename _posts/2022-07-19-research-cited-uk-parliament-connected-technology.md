@@ -76,7 +76,7 @@ The two papers address complementary challenges:
 
 Together, they support a broader policy position: smart and connected technologies should be evaluated as complete cyber-physical systems. Security assessment must consider software, communication networks, hardware, sensors, physical processes, users, and the consequences of failure or malicious manipulation.
 
-The written evidence subsequently formed part of the evidence base associated with the House of Commons inquiry *Connected tech: smart or sinister?* The Committee published its final report on 7 August 2023.
+UPDATE (2023): The written evidence subsequently formed part of the evidence base associated with the House of Commons inquiry *Connected tech: smart or sinister?* The Committee published its final report on 7 August 2023.
 
 ## Perspective
 
