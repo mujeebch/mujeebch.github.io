@@ -17,13 +17,13 @@ tags:
 
 Our AGRITRUST research has been featured by *Electronics Weekly* in an article titled [Arduino-based Squirrel Box brings soil metrics to the IoT](https://www.electronicsweekly.com/blogs/gadget-master/sensors/arduino-based-squirrel-box-brings-soil-metrics-to-the-iot-2023-10/).
 
-The feature introduces the **Squirrel Box**, an Arduino-based system developed by researchers at Newcastle University and the University of Nottingham to monitor soil and environmental conditions. 【1-fb6762】
+The feature introduces the **Squirrel Box**, an Arduino-based system developed by researchers at Newcastle University and the University of Nottingham to monitor soil and environmental conditions. 
 
 # What is the Squirrel Box?
 
 The Squirrel Box is a robust outdoor sensing device developed as part of the AGRITRUST testbed. It collects information about soil moisture, soil temperature, pH, nitrogen, phosphorus and potassium levels, as well as ambient environmental conditions.
 
-The measurements are transmitted through LoRaWAN to support data-driven farming and environmental decision-making. The device can also save data locally when communication is unavailable, improving resilience during gateway or network failures. 【2-69f493】
+The measurements are transmitted through LoRaWAN to support data-driven farming and environmental decision-making. The device can also save data locally when communication is unavailable, improving resilience during gateway or network failures. 
 
 The wider AGRITRUST project examines not only whether smart agricultural sensors work, but also whether farmers and other stakeholders can trust the accuracy, integrity, security and availability of the information they produce.
 
@@ -33,7 +33,7 @@ Coverage in *Electronics Weekly* helps bring our work to a wider community of en
 
 It also highlights the value of connecting cybersecurity and trustworthy-system research with practical challenges in agriculture. As farms become increasingly dependent on connected sensors and data-driven decisions, security, resilience and confidence in the collected data will become essential.
 
-The underlying research is described in our paper, *AGRITRUST: A Testbed to Enable Trustworthy Smart AgriTech* https://doi.org/10.1145/3597512.3600209, published at the First International Symposium on Trustworthy Autonomous Systems. 【2-69f493】
+The underlying research is described in our paper, *AGRITRUST: A Testbed to Enable Trustworthy Smart AgriTech* https://doi.org/10.1145/3597512.3600209, published at the First International Symposium on Trustworthy Autonomous Systems. 
 
 The paper was co-authored with Carl Dickinson, Shishir Nagaraja and Richard Hyde.
 
